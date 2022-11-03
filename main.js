@@ -76,11 +76,11 @@ console.log(array);
 //     array[half+i]=temp;
 // }
 // console.log(array);
-/////========Task8========
+/////========Task9========
 /////I will use bubble sort for this task
 // let temp;
 // for (let j = 0; j < array.length; j++) {
-//     for (let i = 0; i < array.length-i-1; i++) {
+//     for (let i = 0; i < array.length-1; i++) {
 //         if(array[i]<array[i+1]){
 //             temp=array[i];
 //             array[i]=array[i+1];
@@ -89,7 +89,7 @@ console.log(array);
 //     }
 // }
 // console.log(array);
-/////========Task9========
+/////========Task10========
 /////I will use selection sort for this task
 // for (let i = 0; i < array.length; i++) {
 //     let max=array[i];
@@ -105,3 +105,4 @@ console.log(array);
 //     array[index]=temp;
 // }
 // console.log(array);
+
